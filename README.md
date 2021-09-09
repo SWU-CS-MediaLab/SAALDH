@@ -9,12 +9,23 @@ because of their superior search performance and efficiency capability. However,
 Please cite our paper if you use this code in your own work:
 
 @article{SAALDH,
+
 title = {Self-attention and adversary learning deep hashing network for cross-modal retrieval},
+
 journal = {Computers & Electrical Engineering},
+
 volume = {93},
+
 pages = {107262},
+
 year = {2021},
+
 issn = {0045-7906},
+
+doi = {https://doi.org/10.1016/j.compeleceng.2021.107262},
+
+url = {https://www.sciencedirect.com/science/article/pii/S0045790621002457},
+
 author = {Shubai Chen and Song Wu and Li Wang and Zhenyang Yu}
 
 ---
