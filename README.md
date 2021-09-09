@@ -15,8 +15,6 @@ volume = {93},
 pages = {107262},
 year = {2021},
 issn = {0045-7906},
-doi = {https://doi.org/10.1016/j.compeleceng.2021.107262},
-url = {https://www.sciencedirect.com/science/article/pii/S0045790621002457},
 author = {Shubai Chen and Song Wu and Li Wang and Zhenyang Yu}
 
 ---
